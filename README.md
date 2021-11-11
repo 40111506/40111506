@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pavan sai 
+- 👀 I’m interested in programming and making apps and learning about block chain 
+- 🌱 I’m currently learning computer science at my college 
+- 💞️ I’m looking to collaborate on projects that are likely domain in andriod and block chain field 
+- 📫 How to rea
